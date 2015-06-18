@@ -1,4 +1,6 @@
-# pubmed-mining
+pubmed-mining
+==========
+
 PubMed mining tools.
 
 Data mining, mostly medline. 
@@ -16,7 +18,7 @@ These functions shall have a command line interface and those scripts shall have
 
 We hope to share this tool online from our own Galaxy instance.
 
-# Pasos a seguir
+Pasos a seguir
+-----------
 
 .. image:: https://github.com/LC3-INMEGEN/pubmed-mining/raw/master/Mapa.svg
-
