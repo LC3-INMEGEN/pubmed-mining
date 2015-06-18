@@ -21,4 +21,4 @@ We hope to share this tool online from our own Galaxy instance.
 Pasos a seguir
 -----------
 
-.. image:: https://github.com/LC3-INMEGEN/pubmed-mining/raw/master/Mapa.svg
+.. image:: https://raw.githubusercontent.com/LC3-INMEGEN/pubmed-mining/master/modulos.png
