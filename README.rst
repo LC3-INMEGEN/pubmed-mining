@@ -18,7 +18,7 @@ These functions shall have a command line interface and those scripts shall have
 
 We hope to share this tool online from our own Galaxy instance.
 
-Pasos a seguir
+Steps to follow
 -----------
 
 .. image:: https://raw.githubusercontent.com/LC3-INMEGEN/pubmed-mining/master/modulos.png

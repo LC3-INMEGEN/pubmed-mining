@@ -1,31 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="45cm" height="56cm" viewBox="101 -49 889 1108" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="46cm" height="56cm" viewBox="87 -49 904 1108" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g>
-    <path style="fill: #e2ff9d" d="M 102.95 87.3333 C 131.36,69.8333 145.565,64 173.975,64 C 202.385,64 216.59,69.8333 245,87.3333 L 245,180.667 C 216.59,198.167 202.385,204 173.975,204 C 145.565,204 131.36,198.167 102.95,180.667 L 102.95,87.3333z"/>
-    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 102.95 87.3333 C 131.36,69.8333 145.565,64 173.975,64 C 202.385,64 216.59,69.8333 245,87.3333 L 245,180.667 C 216.59,198.167 202.385,204 173.975,204 C 145.565,204 131.36,198.167 102.95,180.667 L 102.95,87.3333"/>
-    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 102.95 87.3333 C 131.36,104.833 145.565,110.667 173.975,110.667 C 202.385,110.667 216.59,104.833 245,87.3333"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="173.975" y="125.667">
-      <tspan x="173.975" y="125.667">archivo</tspan>
-      <tspan x="173.975" y="141.667">con búsqueda</tspan>
-      <tspan x="173.975" y="157.667">formato</tspan>
-      <tspan x="173.975" y="173.667">MEDLINE</tspan>
+    <path style="fill: #e2ff9d" d="M 88.125 87.3333 C 122.465,69.8333 139.635,64 173.975,64 C 208.315,64 225.485,69.8333 259.825,87.3333 L 259.825,180.667 C 225.485,198.167 208.315,204 173.975,204 C 139.635,204 122.465,198.167 88.125,180.667 L 88.125,87.3333z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 88.125 87.3333 C 122.465,69.8333 139.635,64 173.975,64 C 208.315,64 225.485,69.8333 259.825,87.3333 L 259.825,180.667 C 225.485,198.167 208.315,204 173.975,204 C 139.635,204 122.465,198.167 88.125,180.667 L 88.125,87.3333"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 88.125 87.3333 C 122.465,104.833 139.635,110.667 173.975,110.667 C 208.315,110.667 225.485,104.833 259.825,87.3333"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="173.975" y="141.667">
+      <tspan x="173.975" y="141.667">File with search results </tspan>
+      <tspan x="173.975" y="157.667">in MEDLINE format</tspan>
     </text>
   </g>
   <g>
     <path style="fill: #e2ff9d" d="M 369.174 101.4 L 486.824,101.4 L 486.824,147 C 463.294,139.4 451.529,139.4 427.999,147 C 404.469,154.6 392.704,154.6 369.174,147 L 369.174,101.4z"/>
     <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 369.174 101.4 L 486.824,101.4 L 486.824,147 C 463.294,139.4 451.529,139.4 427.999,147 C 404.469,154.6 392.704,154.6 369.174,147 L 369.174,101.4"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="427.999" y="116.4">
-      <tspan x="427.999" y="116.4">query en formato</tspan>
-      <tspan x="427.999" y="132.4">pubmed</tspan>
+      <tspan x="427.999" y="116.4">Query in pubmed</tspan>
+      <tspan x="427.999" y="132.4">format</tspan>
     </text>
   </g>
   <g>
-    <path style="fill: #e2ff9d" d="M 629.176 102.401 L 746.826,102.401 L 746.826,148.001 C 723.296,140.401 711.531,140.401 688.001,148.001 C 664.471,155.601 652.706,155.601 629.176,148.001 L 629.176,102.401z"/>
-    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 629.176 102.401 L 746.826,102.401 L 746.826,148.001 C 723.296,140.401 711.531,140.401 688.001,148.001 C 664.471,155.601 652.706,155.601 629.176,148.001 L 629.176,102.401"/>
+    <path style="fill: #e2ff9d" d="M 625.301 102.401 L 750.701,102.401 L 750.701,148.001 C 725.621,140.401 713.081,140.401 688.001,148.001 C 662.921,155.601 650.381,155.601 625.301,148.001 L 625.301,102.401z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 625.301 102.401 L 750.701,102.401 L 750.701,148.001 C 725.621,140.401 713.081,140.401 688.001,148.001 C 662.921,155.601 650.381,155.601 625.301,148.001 L 625.301,102.401"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="688.001" y="117.401">
-      <tspan x="688.001" y="117.401">query en formato</tspan>
-      <tspan x="688.001" y="133.401">mongodb</tspan>
+      <tspan x="688.001" y="117.401">Query in mongodb</tspan>
+      <tspan x="688.001" y="133.401">format</tspan>
     </text>
   </g>
   <g>
@@ -54,8 +52,8 @@
     <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 366.728 559.456 L 451.8,559.456 C 464.56,569.256 468.814,574.156 468.814,583.956 C 468.814,593.756 464.56,598.656 451.8,608.456 L 366.728,608.456 C 353.968,598.656 349.714,593.756 349.714,583.956 C 349.714,574.156 353.968,569.256 366.728,559.456"/>
     <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 451.8 559.456 C 439.039,569.256 434.785,574.156 434.785,583.956 C 434.785,593.756 439.039,598.656 451.8,608.456"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="400.757" y="579.956">
-      <tspan x="400.757" y="579.956">caché</tspan>
-      <tspan x="400.757" y="595.956">mongo</tspan>
+      <tspan x="400.757" y="579.956">Cache</tspan>
+      <tspan x="400.757" y="595.956">mongodb</tspan>
     </text>
   </g>
   <g>
@@ -109,7 +107,7 @@
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="684" y1="17.0006" x2="660" y2="43.0006"/>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="684" y1="17.0006" x2="708" y2="43.0006"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="684" y="66.9006">
-      <tspan x="684" y="66.9006">Actor</tspan>
+      <tspan x="684" y="66.9006">User</tspan>
     </text>
   </g>
   <g>
@@ -120,7 +118,7 @@
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="431.35" y1="8.3002" x2="407.35" y2="34.3002"/>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="431.35" y1="8.3002" x2="455.35" y2="34.3002"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="431.35" y="58.2002">
-      <tspan x="431.35" y="58.2002">Actor</tspan>
+      <tspan x="431.35" y="58.2002">User</tspan>
     </text>
   </g>
   <g>
@@ -131,23 +129,23 @@
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="178.7" y1="6.6" x2="154.7" y2="32.6"/>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="178.7" y1="6.6" x2="202.7" y2="32.6"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="178.7" y="56.5">
-      <tspan x="178.7" y="56.5">Actor</tspan>
+      <tspan x="178.7" y="56.5">User</tspan>
     </text>
   </g>
   <g>
-    <rect style="fill: #e2ff9d" x="507.962" y="1004" width="76.65" height="54"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="507.962" y="1004" width="76.65" height="54"/>
+    <rect style="fill: #e2ff9d" x="489.212" y="1004" width="114.15" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="489.212" y="1004" width="114.15" height="54"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="546.287" y="1026.9">
-      <tspan x="546.287" y="1026.9">exportar</tspan>
-      <tspan x="546.287" y="1042.9">a CSV</tspan>
+      <tspan x="546.287" y="1026.9">export to</tspan>
+      <tspan x="546.287" y="1042.9">csv file</tspan>
     </text>
   </g>
   <g>
-    <rect style="fill: #e2ff9d" x="637.78" y="1004" width="76.65" height="54"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="637.78" y="1004" width="76.65" height="54"/>
+    <rect style="fill: #e2ff9d" x="633.855" y="1004" width="84.5" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="633.855" y="1004" width="84.5" height="54"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="676.105" y="1026.9">
-      <tspan x="676.105" y="1026.9">exportar</tspan>
-      <tspan x="676.105" y="1042.9">a SIF</tspan>
+      <tspan x="676.105" y="1026.9">export to </tspan>
+      <tspan x="676.105" y="1042.9">sif file</tspan>
     </text>
   </g>
   <g>
@@ -203,7 +201,7 @@
     <rect style="fill: #e2ff9d" x="764.52" y="1000.36" width="92.6" height="54"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="764.52" y="1000.36" width="92.6" height="54"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="810.82" y="1023.26">
-      <tspan x="810.82" y="1023.26">exportar a </tspan>
+      <tspan x="810.82" y="1023.26">export to</tspan>
       <tspan x="810.82" y="1039.26">edgelist</tspan>
     </text>
   </g>
@@ -213,10 +211,10 @@
     <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="797.889,997.328 789.342,990.12 794.923,990.439 798.527,986.166 "/>
   </g>
   <g>
-    <path style="fill: #e2ff9d" d="M 282.318 708.108 L 538.818,708.108 L 487.518,748.108 L 333.618,748.108 L 282.318,708.108z"/>
-    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 282.318 708.108 L 538.818,708.108 L 487.518,748.108 L 333.618,748.108 L 282.318,708.108"/>
+    <path style="fill: #e2ff9d" d="M 266.86 708.108 L 554.276,708.108 L 496.793,748.108 L 324.343,748.108 L 266.86,708.108z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 266.86 708.108 L 554.276,708.108 L 496.793,748.108 L 324.343,748.108 L 266.86,708.108"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="410.568" y="732.108">
-      <tspan x="410.568" y="732.108">Búsquedas en el caché</tspan>
+      <tspan x="410.568" y="732.108">Search in mongodb cache</tspan>
     </text>
   </g>
   <g>
@@ -232,10 +230,10 @@
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="241.754" y1="713.958" x2="217.754" y2="739.958"/>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="241.754" y1="713.958" x2="265.754" y2="739.958"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="241.754" y="763.858">
-      <tspan x="241.754" y="763.858">Actor</tspan>
+      <tspan x="241.754" y="763.858">User</tspan>
     </text>
   </g>
-  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="882.08" y="650.844">
-    <tspan x="882.08" y="650.844">Visualización</tspan>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="875.714" y="650.844">
+    <tspan x="875.714" y="650.844">Network display</tspan>
   </text>
 </svg>
