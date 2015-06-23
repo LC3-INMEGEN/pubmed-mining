@@ -1,0 +1,27 @@
+<tool id="QueryToMesh" name="Query To Mesh" version="0.1">
+  
+  <description>
+      Construct meshterm network for search criteria.
+  </description>
+  
+  <command interpreter="python">
+    query2mesh_network.py --query $query --outfile $outfile
+  </command>
+
+  <inputs>
+      <param name="query" type="text" value="" label="String query" >
+          <validator type="empty_field" message="Enter a valid string query"/>
+      </param>
+      
+  </inputs>
+  
+  <outputs>
+      <data format="pickle" name="outfile" >
+      </data>
+  </outputs>
+  
+  <help>
+    query2mesh_network.py --query String_query --outfile File_in_pickle_format
+  </help>
+  
+</tool>
