@@ -56,3 +56,10 @@ this will let our tools to be available on your local Galaxy instance:
 
     ln -s ../../pubmed-mining/pubmedmining_tools.xml .
 
+Now you have to modify the galaxy.ini file:
+
+    open galaxy.ini
+
+Then add the following line:
+
+    tool_config_file = config/tool_conf.xml.sample,config/pubmedmining_tools.xml
