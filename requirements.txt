@@ -1,0 +1,4 @@
+biopython==1.65
+networkx==1.9.1
+numpy==1.9.2
+pymongo==3.0.2
