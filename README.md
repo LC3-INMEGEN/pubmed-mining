@@ -1,12 +1,8 @@
-pubmed-mining
-==========
+# Pubmed-Mining
 
 PubMed mining tools.
 
-Data mining, mostly medline. 
-
-
-For the time being we shall provide this functionality:
+We shall provide this functionality:
 
 - update local cache, a mongo document database, from a query to PubMed
 - build mesh term networks from queries to mongodb, as networkX graphs, save them to python pickle files
@@ -16,9 +12,22 @@ For the time being we shall provide this functionality:
 
 These functions shall have a command line interface and those scripts shall have PSU Galaxy wrappers.
 
-We hope to share this tool online from our own Galaxy instance.
+## Use Cases
 
-Steps to follow
------------
+<img src="https://raw.githubusercontent.com/LC3-INMEGEN/pubmed-mining/master/modulos.png">
 
-.. image:: https://raw.githubusercontent.com/LC3-INMEGEN/pubmed-mining/master/modulos.png
+
+## Installation
+
+We hope to share this tool online from our own Galaxy instance. In the
+meantime you can roll your own and add our packages.
+
+Follow [these
+instructions](https://wiki.galaxyproject.org/Admin/GetGalaxy) to setup
+your own galaxy.
+
+Checkout this repo:
+
+    git checkout https://github.com/LC3-INMEGEN/pubmed-mining.git
+
+
