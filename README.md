@@ -26,10 +26,6 @@ Follow [these
 instructions](https://wiki.galaxyproject.org/Admin/GetGalaxy) to setup
 your own galaxy.
 
-Checkout this repo:
-
-    git checkout https://github.com/LC3-INMEGEN/pubmed-mining.git
-
 After you have installed your own Galaxy instance, make a clone of our
 repo:
 
@@ -39,38 +35,35 @@ Move to the Galaxy Tools directory:
 
     cd galaxy/tools/
 
-Create a symbolic link to the repo clone:
+Asuming you cloned our repo at the same level, create a symbolic link to the repo clone:
 
     ln -s ../../pubmed-mining/ .
 
-Move back to the Galaxy directory:
-
-    cd ..
-
 Move to the config directory:
 
-    cd config/
+    cd ../config/
 
 Create a symbolic link to the tool configuration file on the repo,
 this will let our tools to be available on your local Galaxy instance:
 
     ln -s ../../pubmed-mining/pubmedmining_tools.xml .
 
-Now you have to open the galaxy.ini file:
 
-    open galaxy.ini
-
-Then add the following line (in galaxy.ini):
+Edit your galaxy.ini file so that the tool_config_file setting looks
+like this:
 
     tool_config_file = config/tool_conf.xml.sample,config/pubmedmining_tools.xml
 
-Then save the galaxy.ini file.
 
 Now go back to the Galaxy directory:
 
     cd ..
 
-Activate the virtual environment .venv:
+Create a virtual environment there:
+
+    virtualenv .venv
+
+Activate it
 
     source .venv/bin/activate
 
@@ -92,4 +85,5 @@ For pymongo:
 
     pip install pymongo
     
-Our tools should be available now for you to run on your local Galaxy instance.
+Our tools should be available now for you to run on your local Galaxy
+instance, you should probably restart it.
