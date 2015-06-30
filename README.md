@@ -64,5 +64,32 @@ Then add the following line (in galaxy.ini):
 
     tool_config_file = config/tool_conf.xml.sample,config/pubmedmining_tools.xml
 
-Then save the galaxy.ini file. Our tools should be available for you
-to run on your local Galaxy instance.
+Then save the galaxy.ini file.
+
+Now go back to the Galaxy directory:
+
+    cd ..
+
+Activate the virtual environment .venv:
+
+    source .venv/bin/activate
+
+Install the following packages:
+
+For biopython:
+
+    pip install biopython
+
+For networkx:
+
+    pip install networkx
+
+For numpy:
+
+    pip install numpy
+
+For pymongo:
+
+    pip install pymongo
+    
+Our tools should be available now for you to run on your local Galaxy instance.
