@@ -67,23 +67,13 @@ Activate it
 
     source .venv/bin/activate
 
-Install the following packages:
+Install the biopython, networkx, numpy and pymongo packages:
 
-For biopython:
-
-    pip install biopython
-
-For networkx:
-
-    pip install networkx
-
-For numpy:
-
-    pip install numpy
-
-For pymongo:
-
-    pip install pymongo
+    pip install -r ~/pubmed-mining/requirements.txt
     
 Our tools should be available now for you to run on your local Galaxy
 instance, you should probably restart it.
+
+##Galaxy Docker Image
+
+https://github.com/bgruening/docker-galaxy-stable
