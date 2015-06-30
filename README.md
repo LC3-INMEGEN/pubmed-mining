@@ -73,3 +73,7 @@ Install the biopython, networkx, numpy and pymongo packages:
     
 Our tools should be available now for you to run on your local Galaxy
 instance, you should probably restart it.
+
+##Galaxy Docker Image
+
+https://github.com/bgruening/docker-galaxy-stable
