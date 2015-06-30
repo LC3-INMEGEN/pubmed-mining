@@ -8,16 +8,17 @@
     query2mesh_network.py --query $query --outfile $outfile
   </command>
 
+  
   <inputs>
-      <param name="query" type="text" value="" label="String query" >
-          <validator type="empty_field" message="Enter a valid string query"/>
+      <param name="query" type="text" value="{}" label="String query"
+             area="True">
+        <sanitizer sanitize="False">
+        </sanitizer>
       </param>
-      
   </inputs>
   
   <outputs>
-      <data format="pickle" name="outfile" >
-      </data>
+      <data format="pickle" name="outfile" />
   </outputs>
   
   <help>
