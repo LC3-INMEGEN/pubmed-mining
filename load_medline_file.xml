@@ -1,4 +1,4 @@
-<tool id="LoadRaw" name="LoadRaw">
+<tool id="pmm_load_medline" name="Load MEDLINE file">
   <description>Loads PubMed citations in MEDLINE format files.</description>
   <command interpreter="python">load_medline_file.py --citations $citations > $dummyout
   </command>
