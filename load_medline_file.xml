@@ -1,0 +1,20 @@
+<tool id="LoadRaw" name="LoadRaw">
+  <description>Loads PubMed citations in MEDLINE format files.</description>
+  <command interpreter="python">load_medline_file.py --citations $citations > $dummyout
+  </command>
+  <inputs>
+    <param name="citations" type="data" label="Citations"/>
+  </inputs>
+
+  <outputs>
+    <data format="tabular" name="dummyout" />
+  </outputs>
+
+  <help>
+    Queries to the PubMed database can be downloaded as MEDLINE files
+    which contain citations.
+
+    This module will load those citations to a local cache that can be
+    queried to assemble different types of networks.
+  </help>
+</tool>
