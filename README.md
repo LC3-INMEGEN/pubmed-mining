@@ -30,13 +30,29 @@ Checkout this repo:
 
     git checkout https://github.com/LC3-INMEGEN/pubmed-mining.git
 
-After you have installed your own Galaxy instance, clone this repo and
-install the tools:
+After you have installed your own Galaxy instance, make a clone of our
+repo:
 
     git clone https://github.com/LC3-INMEGEN/pubmed-mining.git
+
+Move to the Galaxy Tools directory:
+
     cd galaxy/tools/
+
+Create a symbolic link to the repo clone:
+
     ln -s ../../pubmed-mining/ .
+
+Move back to the Galaxy directory:
+
     cd ..
-    cd galaxy/config/
+
+Move to the config directory:
+
+    cd config/
+
+Create a symbolic link to the tool configuration file on the repo,
+this will let our tools to be available on your local Galaxy instance:
+
     ln -s ../../pubmed-mining/pubmedmining_tools.xml .
 
