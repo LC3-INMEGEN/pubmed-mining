@@ -13,7 +13,7 @@
   </inputs>
   
   <outputs>
-      <data format="svg" name="outfile" />
+      <data format="png" name="outfile" />
   </outputs>
   
   <help>
