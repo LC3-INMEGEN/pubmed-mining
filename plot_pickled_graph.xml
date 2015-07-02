@@ -1,0 +1,23 @@
+<tool id="PlotPickledGraph" name="Plot Pickled Graph" version="0.1">
+  
+  <description>
+      Plot graph from pickle file.
+  </description>
+  
+  <command interpreter="python">
+    plot_pickled_graph.py --pickle $pickle --outfile $outfile
+  </command>
+
+  <inputs>
+    <param name="pickle" type="data" label="pickle"/>
+  </inputs>
+  
+  <outputs>
+      <data format="svg" name="outfile" />
+  </outputs>
+  
+  <help>
+    plot_pickled_graph.py --pickle pickle_file --outfile Graph_in_svg
+  </help>
+  
+</tool>
