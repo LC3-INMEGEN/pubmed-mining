@@ -3,6 +3,5 @@
   <section id="textmining" name="Pubmed Mining">
     <tool file="pubmed-mining/load_medline_file.xml" />
     <tool file="pubmed-mining/query2mesh_network.xml" />
-    <tool file="pubmed-mining/load_medline_file.xml" />
   </section>  
 </toolbox>
