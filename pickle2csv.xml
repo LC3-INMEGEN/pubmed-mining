@@ -1,0 +1,23 @@
+<tool id="Pickle2CSV" name="Convert from pickle to CSV" version="0.1">
+  
+  <description>
+      Converts pickle file to csv.
+  </description>
+  
+  <command interpreter="python">
+    pickle2csv.py --pickle $pickle --csv $outfile
+  </command>
+
+  <inputs>
+    <param name="pickle" type="data" label="pickle"/>
+  </inputs>
+  
+  <outputs>
+      <data format="csv" name="outfile" />
+  </outputs>
+  
+  <help>
+    pickle2csv.py --pickle pickle_file --csv csv_file
+  </help>
+  
+</tool>
