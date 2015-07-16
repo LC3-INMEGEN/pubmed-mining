@@ -48,11 +48,13 @@ this will let our tools to be available on your local Galaxy instance:
 
     ln -s ../../pubmed-mining/pubmedmining_tools.xml .
 
+Delete the original galaxy config file:
+
+    rm -Rf galaxy.ini
 
 Create a symbolic link to the galaxy conifg file on the repo:
 
     ln -s ../../pubmed-mining/galaxy.ini .
-
 
 Now go back to the Galaxy directory:
 
