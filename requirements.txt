@@ -7,7 +7,6 @@ certifi==2015.4.28
 functools32==3.2.3.post1
 jsonschema==2.5.1
 pytz==2015.4
-certifi==2015.4.28
 tornado==4.2
 six==1.9.0
 python-dateutil==2.4.2
