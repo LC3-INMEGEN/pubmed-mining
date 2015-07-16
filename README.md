@@ -49,10 +49,9 @@ this will let our tools to be available on your local Galaxy instance:
     ln -s ../../pubmed-mining/pubmedmining_tools.xml .
 
 
-Edit your galaxy.ini file so that the tool_config_file setting looks
-like this:
+Create a symbolic link to the galaxy conifg file on the repo:
 
-    tool_config_file = config/tool_conf.xml.sample,config/pubmedmining_tools.xml
+    ln -s ../../pubmed-mining/galaxy.ini .
 
 
 Now go back to the Galaxy directory:
