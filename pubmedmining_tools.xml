@@ -5,5 +5,6 @@
     <tool file="pubmed-mining/query2mesh_network.xml" />
     <tool file="pubmed-mining/plot_pickled_graph.xml" />
     <tool file="pubmed-mining/pickle2csv.xml" />
+    <tool file="pubmed-mining/force_directed.xml" />
   </section>  
 </toolbox>
