@@ -11,7 +11,7 @@ from jinja2._compat import string_types, iteritems
 
 class DictLoader(BaseLoader):
     
-    loader = DictLoader({'/Users/Lezama/Desktop/force_directed.html': open ( sys.argv[1], 'r')})
+    loader = DictLoader({'~/force_directed.html': open ( sys.argv[1], 'r')})
 
     def __init__(self, mapping):
         self.mapping = mapping
