@@ -1,6 +1,6 @@
 <tool id="d3_network" name="Force directed d3 network">
   <description>Creates d3 force directed network from pickle file</description>
-  <command interpreter="python">force_directed.py --pickle $pickle > $dummyout
+  <command interpreter="python">force_directed.py $pickle > $dummyout
   </command>
   <inputs>
     <param name="pickle" type="data" label="Pickle"/>
