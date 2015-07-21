@@ -1,0 +1,28 @@
+<tool id="QueryToJSON" name="Query To JSON" version="0.1">
+  
+  <description>
+      Construct meshterm network for search criteria.
+  </description>
+  
+  <command interpreter="python">
+    query2mesh_network.py --query $query --outfile $outfile
+  </command>
+
+  
+  <inputs>
+      <param name="query" type="text" value="{}" label="String query"
+             area="True">
+        <sanitizer sanitize="False">
+        </sanitizer>
+      </param>
+  </inputs>
+  
+  <outputs>
+      <data format="json" name="outfile" />
+  </outputs>
+  
+  <help>
+    query2mesh_network.py --query String_query --outfile File_in_json_format
+  </help>
+  
+</tool>
